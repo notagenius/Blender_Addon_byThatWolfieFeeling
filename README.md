@@ -1,13 +1,13 @@
 # Blender Addons made by ThatWolfieFeeling
 
-#### Over-all Usage:
+## Over-all Usage:
 1. put script in your blender folder:
-../../scripts/addons
-2. start Blender
+"../../scripts/addons"
+2. start "Blender"
 3. "User Preference" then "Add-Ons" then search "wolfie"
 
 # 0. Select_Active_Object
-#### Utility:
+## Utility:
 
 in default blender, you can choose active object by the object menu but you can't select it.
 this script is for that use,
