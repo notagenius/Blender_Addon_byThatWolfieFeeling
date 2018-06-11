@@ -1,4 +1,4 @@
-# Blender Addons made by ThatWolfieFeeling
+# Blender Add-ons made by ThatWolfieFeeling
 
 ## Over-all Usage:
 1. put script in your blender folder:
